@@ -1,0 +1,16 @@
+https://support.cloudbees.com/hc/en-us/articles/224621648-GitHub-Webhook-Troubleshooting
+https://medium.com/@anusha.sharma3010/build-a-simple-maven-project-in-jenkins-da7a2a4ae202
+https://getintodevops.com/blog/building-your-first-docker-image-with-jenkins-2-guide-for-developers
+https://github.com/Anuj1990/AspDotNetDocker
+https://assets.nagios.com/downloads/nagiosxi/docs/Installing-Nagios-XI-Manually-on-Linux.pdf
+https://drive.google.com/file/d/1DtYWDoyT0Pk2GG277WEIuyA__D_W0u6o/view?usp=sharing
+https://docs.aws.amazon.com/eks/latest/userguide/what-is-eks.html
+https://kubernetes.io/docs/reference/generated/kubernetes-api/v1.15/
+https://neuvector.com/network-security/advanced-kubernetes-networking/ 
+Curl wgetip.com (to extract the public ip of the vm/c
+https://matthewpalmer.net/kubernetes-app-developer/articles/kubernetes-apiversion-definition-guide.html
+https://drive.google.com/file/d/11kB0ME8O55MBfSHjM2Lxsqbni2QFPS-2/view
+https://kubernetes.io/docs/concepts/services-networking/service/#virtual-ips-and-service-proxies
+https://kubernetes.io/docs/reference/kubectl/cheatsheet/
+https://drive.google.com/file/d/1IrcSMJxUIVprM5bEtXzQSoQjag574LDZ/view?usp=sharing
+https://drive.google.com/file/d/1TgByIZCt-ULhImmqL6hcxv6RV_-fiYUd/view?
